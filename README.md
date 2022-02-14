@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+width="29px">, Hi there 👋 I'm [Shoayb!](https://) 
+
+<a href="https://www.linkedin.com/in/hassan-shoayb/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+
+<a href="https://twitter.com/engr_shoayb">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+</a>
+
 <!--
 **Hassan-Shoayb/Hassan-Shoayb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
