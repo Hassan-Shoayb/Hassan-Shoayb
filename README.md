@@ -1,6 +1,4 @@
-### Hi there 👋
-
-width="29px">, Hi there 👋 I'm [Shoayb!](https://) 
+### Hi there 👋 I'm [Shoayb!](https://) 
 
 <a href="https://www.linkedin.com/in/hassan-shoayb/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -8,6 +6,14 @@ width="29px">, Hi there 👋 I'm [Shoayb!](https://)
 
 <a href="https://twitter.com/engr_shoayb">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+</a>
+
+<a href="engrshoayb@gmail.com">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCKxjLUhMgKChJ8NxbeRZwOw">
+  <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
 </a>
 
 <!--
