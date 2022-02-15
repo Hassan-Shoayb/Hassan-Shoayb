@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm [Shoayb!](https://) 
 
-<h3> I'm a Data Scientist, Tech Content Creator from Software. I have a background in Computer Science and Engineering. I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science. </h3>
+<h5> I'm a Data Scientist, Tech Content Creator from Software. I have a background in Computer Science and Engineering. I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science. </h5>
 
 <a href="https://www.linkedin.com/in/hassan-shoayb/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
