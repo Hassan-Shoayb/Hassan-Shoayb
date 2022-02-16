@@ -1,6 +1,6 @@
 # Hi there 👋 I'm [Shoayb!](https://) 
 
-<p> I'm a Data Scientist, Tech Content Creator from Nigeria. I have a background in Computer Science and Engineering. I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science. </p>
+<p>Hassan Shoayb is Data Scientist, Tech Content Creator from Nigeria. He also has a background in Computer Science and Engineering. He is super passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science to build data driven products that can solve actual problems. </p>
 
 <a href="https://www.linkedin.com/in/hassan-shoayb/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
