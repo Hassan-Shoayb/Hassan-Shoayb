@@ -21,6 +21,8 @@
 <br>
 <br>
 
+![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)
+
 |![Shoayb's github stats](https://github-readme-stats.vercel.app/api?username=hassan-shoayb&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-shoayb&theme=algolia)|
 | ------------ | ------------ | 
 
