@@ -35,6 +35,11 @@
 </p>
 
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{engrshoayb}/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{engrshoayb}/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{engrshoayb}/discussion)
+
 <!--
 **Hassan-Shoayb/Hassan-Shoayb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
