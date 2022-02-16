@@ -34,12 +34,6 @@
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;"></a>
 </p>
 
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{engrshoayb}/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{engrshoayb}/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{engrshoayb}/discussion)
-
 <!--
 **Hassan-Shoayb/Hassan-Shoayb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
