@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)
 
-### You may also check me on:
+### You may check me on:
 <a href="https://www.linkedin.com/in/hassan-shoayb/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
