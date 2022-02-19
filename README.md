@@ -29,7 +29,7 @@
   <a href="https://github.com/Hassan-Shoayb?tab=repositories">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Shoayb&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Shoayb&layout=compact&theme=algolia&count_private=true"
     />
   </a>
   <a href="https://github.com/Hassan-Shoayb?tab=repositories">
