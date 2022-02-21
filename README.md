@@ -47,11 +47,6 @@
   </a>
 </p>
 
-
-<!-- |![Shoayb's github stats](https://github-readme-stats.vercel.app/api?username=hassan-shoayb&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-shoayb&theme=algolia)|
-| ------------ | ------------ | 
- -->
-
 <p align="center" dir="auto">
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
 </p>
