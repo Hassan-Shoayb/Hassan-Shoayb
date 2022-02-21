@@ -6,13 +6,15 @@
 ![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)
 
 ### You may check me on:
+
+<a href="https://www.kaggle.com/engrshoayb">
+  <img align="left" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"  />
+</a>
+
 <a href="https://www.linkedin.com/in/hassan-shoayb/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 
-<a href="https://www.kaggle.com/engrshoayb">
-  <img align="left" width="24px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"  />
-</a>
 
 <a href="https://twitter.com/engr_shoayb">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
