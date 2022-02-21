@@ -42,10 +42,6 @@
 </p>
 
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{engrshoayb}/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{engrshoayb}/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{engrshoayb}/discussion)
 <!-- |![Shoayb's github stats](https://github-readme-stats.vercel.app/api?username=hassan-shoayb&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-shoayb&theme=algolia)|
 | ------------ | ------------ | 
  -->
