@@ -7,7 +7,7 @@
 
 ### You may check me on:
 
-<a href="https://www.kaggle.com/engrshoayb">
+<a href="https://www.kaggle.com/engrshoayb">   
   <img align="left" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"  />
 </a>
 
