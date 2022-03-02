@@ -3,7 +3,7 @@
 <p>Hassan Shoayb is Data Scientist, Tech Content Creator from Nigeria. He also has a background in Computer Science and Engineering. He is super passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science to build data driven products that can solve actual problems. </p>
 <br>
 
-![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)
+![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)  
 
 ### You may check me on:
 
