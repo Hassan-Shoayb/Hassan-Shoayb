@@ -6,6 +6,9 @@
 ![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)  
 
 <h2>certifications:</h2>
+<ul>
+    <li>AI For Everyone - DeepLearning.AI, <href='# 'view certificate> </li>
+</ul>
 
 
 ### You may check me on:
