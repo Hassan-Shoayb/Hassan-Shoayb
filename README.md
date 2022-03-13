@@ -7,7 +7,7 @@
 
 <h2>certifications:</h2>
 <ul>
-    <li>AI For Everyone - DeepLearning.AI, <href='# 'view certificate> </li>
+    <li>AI For Everyone - DeepLearning.AI, <a href='# 'view certificate> </li>
 </ul>
 
 
