@@ -7,7 +7,7 @@
 
 <h2>certifications:</h2>
 <ul>
-    <li>AI For Everyone - DeepLearning.AI, <a href='# '> view certificate </a> </li>
+    <li>AI For Everyone - DeepLearning.AI: <a href='https://www.coursera.org/account/accomplishments/verify/THNHQELZXLR3'> view certificate </a> </li>
 </ul>
 
 
