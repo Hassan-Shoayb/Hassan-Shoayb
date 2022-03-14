@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)  
 
-<h2>certifications:</h2>
+<h2>Certifications</h2>
 <ul>
     <li>AI For Everyone - DeepLearning.AI: <a href='https://www.coursera.org/account/accomplishments/verify/THNHQELZXLR3'> view certificate </a> </li>
     <li>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning:  <a href='#'> view certificate </a></li>
