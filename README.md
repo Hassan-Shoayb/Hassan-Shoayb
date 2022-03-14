@@ -8,6 +8,7 @@
 <h2>certifications:</h2>
 <ul>
     <li>AI For Everyone - DeepLearning.AI: <a href='https://www.coursera.org/account/accomplishments/verify/THNHQELZXLR3'> view certificate </a> </li>
+    <li>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning: <li>
 </ul>
 
 
