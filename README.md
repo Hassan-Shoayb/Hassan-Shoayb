@@ -31,7 +31,7 @@
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCKxjLUhMgKChJ8NxbeRZwOw">
+<a href="https://www.youtube.com/c/Softlinks">
   <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
 </a>     
 
