@@ -32,6 +32,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)   -->
 
+<br>
 <h2>Certifications</h2>
 <ul>
     <li>AI For Everyone : <a href='https://www.coursera.org/account/accomplishments/verify/THNHQELZXLR3'> view certificate </a> </li>
