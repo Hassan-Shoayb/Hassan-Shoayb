@@ -3,7 +3,32 @@
 
 
 <p>Hassan Shoayb is Data Scientist, Tech Content Creator from Nigeria. He also has a background in Computer Science and Engineering. He is super passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science to build data driven products that can solve actual problems. </p>
-![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)  
+
+<a href="https://www.kaggle.com/engrshoayb">   
+  <img align="left" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"  />
+</a>
+
+<a href="https://www.linkedin.com/in/hassan-shoayb/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+
+
+<a href="https://twitter.com/engr_shoayb">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+</a>
+
+<a href="mailto:engrshoayb@gmail.com">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+
+<a href="https://www.youtube.com/c/Softlinks">
+  <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
+</a>  
+<a href="https://shoayb.hashnode.dev/">
+  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+</a>
+
+<!-- ![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)   -->
 
 <h2>Certifications</h2>
 <ul>
