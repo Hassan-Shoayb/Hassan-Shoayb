@@ -5,15 +5,6 @@
 <p>Hassan Shoayb is Data Scientist, Tech Content Creator from Nigeria. He also has a background in Computer Science and Engineering. He is super passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science to build data driven products that can solve actual problems. </p>
 <br>
 
-![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)  
-
-<h2>Certifications</h2>
-<ul>
-    <li>AI For Everyone : <a href='https://www.coursera.org/account/accomplishments/verify/THNHQELZXLR3'> view certificate </a> </li>
-    <li>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning :  <a href='#'> view certificate </a></li>
-</ul>
-
-
 ### You may check me on:
 
 <a href="https://www.kaggle.com/engrshoayb">   
@@ -39,6 +30,15 @@
 <a href="https://shoayb.hashnode.dev/">
   <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)  
+
+<h2>Certifications</h2>
+<ul>
+    <li>AI For Everyone : <a href='https://www.coursera.org/account/accomplishments/verify/THNHQELZXLR3'> view certificate </a> </li>
+    <li>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning :  <a href='#'> view certificate </a></li>
+</ul>
+
 
 <br>
 
