@@ -1,5 +1,5 @@
 # Hi there 👋 I'm [Shoayb!](https://)   
-<a href="https://ibb.co/NNxVtQd"><img src="https://i.ibb.co/fNM1qBz/Hassan-Shoayb.png" alt="Hassan-Shoayb" border="0" style={width:100%}></a>
+[url=https://ibb.co/NNxVtQd][img]https://i.ibb.co/fNM1qBz/Hassan-Shoayb.png[/img][/url]
 
 
 <p>Hassan Shoayb is Data Scientist, Tech Content Creator from Nigeria. He also has a background in Computer Science and Engineering. He is super passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science to build data driven products that can solve actual problems. </p>
