@@ -1,5 +1,6 @@
 # Hi there 👋 I'm [Shoayb!](https://)   
-![Header!](https://user-images.githubusercontent.com/57611883/154788077-6bd90325-8cf8-4898-b9a0-ebbe4d7dd5fe.png)
+<!-- ![Header!](https://user-images.githubusercontent.com/57611883/154788077-6bd90325-8cf8-4898-b9a0-ebbe4d7dd5fe.png) -->
+<a href="https://ibb.co/T4LmdKc"><img src="https://i.ibb.co/Mc6MQ8n/Hassan-Shoayb.png" alt="Hassan-Shoayb" border="0"></a>
 
 
 <p>Hassan Shoayb is Data Scientist, Tech Content Creator from Nigeria. He also has a background in Computer Science and Engineering. He is super passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science to build data driven products that can solve actual problems. </p>
