@@ -33,9 +33,13 @@
 
 <a href="https://www.youtube.com/c/Softlinks">
   <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-</a>     
+</a>  
+<a href="https://shoayb.hashnode.dev/">
+  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+</a>
 
 <br>
+
 <br>
 
 <p align="center">
