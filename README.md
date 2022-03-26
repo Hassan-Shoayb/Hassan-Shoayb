@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/Hassan-Shoayb/Hassan-Shoayb/main/Hassan-Shoayb.png)
 
 
-<p>Hassan Shoayb is a from Nigeria Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods. He is also a Tech Content Creator who has a background in Computer Science and Engineering. He is super passionate about Artificial Intelligence, Machine Learning/Deep Learning and Data Science to build data driven products that can solve actual problems. </p>
+<p>Hassan Shoayb is a Data Scientist with a passion for delivering valuable data through analytical functions and data retrieval methods. He is also a Tech Content Creator who has a background in Computer Science and Engineering. He is super passionate about Artificial Intelligence, Machine Learning/Deep Learning and Data Science to build data driven products that can solve actual problems. </p>
 
 <h2>You may check me on: </h2>
 
