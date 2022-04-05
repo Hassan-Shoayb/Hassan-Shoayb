@@ -15,7 +15,7 @@
 </a>
 
 
-<a href="https://twitter.com/engr_shoayb">
+<a href="https://twitter.com/Hassan_Shoayb">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
 
@@ -38,6 +38,12 @@
     <li>AI For Everyone : <a href='https://www.coursera.org/account/accomplishments/verify/THNHQELZXLR3'> view certificate </a> </li>
     <li>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning :  <a href='#'> view certificate </a></li>
 </ul>
+
+<h2>Some of my Blog Articles</h2>
+<ul>
+    <li><a href='https://shoayb.hashnode.dev/contributing-to-open-source-projects'>Guide contributing to open source Projects</a> </li>
+</ul>
+
 
 
 <br>
