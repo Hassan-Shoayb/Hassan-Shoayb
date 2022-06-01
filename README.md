@@ -23,7 +23,7 @@
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
-<a href="https://www.youtube.com/c/Softlinks">
+<a href="https://www.youtube.com/c/Softlinks?sub_confirmation=1">
   <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
 </a>  
 <a href="https://shoayb.hashnode.dev/">
