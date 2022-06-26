@@ -49,15 +49,39 @@
   <tr>
     <td align="center" width="96">
       <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+     <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" alt="C" />
       </a>
-      <br>Python
+      <br>C++
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
+      </a>
+      <br>Tensorflow
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/scikit-learn.png" width="70px" height="40px" alt="React" />
+      </a>
+      <br>Sk-learn
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/keras.png" width="50px" height="50px" alt="React" />
+      </a>
+      <br>Keras
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -65,11 +89,12 @@
       </a>
       <br>Numpy
     </td>
-    <td align="center" width="96">
+  <tr>
+     <td align="center" width="96">
       <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pandas.png" width="60px" height="60px" alt="TypeScript" />
       </a>
-      <br>React JS
+      <br>Pandas
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -83,25 +108,11 @@
       </a>
       <br>DataBases
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" alt="C" />
-      </a>
-      <br>C++
-    </td>
     <td align="center" width="96">
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
-      </a>
-      <br>Tensorflow
     </td>
     <td align="center" width="96">
       <a href="#">
