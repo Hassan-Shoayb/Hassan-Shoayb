@@ -77,14 +77,6 @@
       </a>
       <br>Bootstrap
     </td>
-    
-    <td align="center" width="96"> 
-      <a href="#">
-        <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>HTML
-    </td>
-    
     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
