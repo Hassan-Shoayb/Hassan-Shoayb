@@ -91,7 +91,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pandas.png" width="60px" height="60px" alt="TypeScript" />
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pandas.png" width="50px" height="60px" alt="TypeScript" />
       </a>
       <br>Pandas
     </td>
