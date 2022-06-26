@@ -89,8 +89,7 @@
       </a>
       <br>Numpy
     </td>
-  <tr>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
         <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pandas.png" width="60px" height="60px" alt="TypeScript" />
       </a>
@@ -102,6 +101,7 @@
       </a>
       <br>Seaborn
     </td>
+  <tr>
      <td align="center" width="96"> 
       <a href="#" >
         <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-database-100-most-used-icons-flaticons-flat-flat-icons-2.png" width="48" height="48" alt="Mongo DB" />
