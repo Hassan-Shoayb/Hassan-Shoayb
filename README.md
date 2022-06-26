@@ -61,9 +61,9 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://img.icons8.com/color/48/000000/numpy.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>Numpy
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -73,31 +73,23 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Node JS" />
       </a>
-      <br>Bootstrap
-    </td>
-    
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
+      <br>Seaborn
     </td>
      <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-database-100-most-used-icons-flaticons-flat-flat-icons-2.png" width="48" height="48" alt="Mongo DB" />
       </a>
-      <br>MongoDB
+      <br>DataBases
     </td>
   </tr>
-  
   <tr>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" alt="C" />
       </a>
-      <br>C Lang
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#" >
@@ -111,7 +103,18 @@
       </a>
       <br>Tensorflow
     </td>
-    
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96"> <a href="#"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48" height="48" alt="Bootstrap" />     </a>
+    <br>HTML 
+    </td>
+    <td align="center" width="96"> <a href="#"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" alt="Bootstrap" />     </a>
+    <br>CSS
+    </td>
 </table>
 
 
