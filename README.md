@@ -131,6 +131,8 @@
 
 <h2>Some of my Blog Articles</h2>
 <ul>
+  <li><a href='https://shoayb.hashnode.dev/build-web-apps-with-python-code-in-your-html'>Build Web Apps with Python code in Your HTML</a> </li>
+  <li><a href='https://shoayb.hashnode.dev/publish-your-portfolio-website-using-github-pages'>Publish your Portfolio website Using Github Pages</a> </li>
     <li><a href='https://shoayb.hashnode.dev/contributing-to-open-source-projects'>Guide contributing to open source Projects</a> </li>
 </ul>
 
