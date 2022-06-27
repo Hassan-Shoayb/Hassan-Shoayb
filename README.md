@@ -61,7 +61,7 @@
     </td>
      <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" alt="C++" />
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="55" height="55" alt="C++" />
       </a>
       <br>C++
     </td>
@@ -91,7 +91,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pandas.png" width="50px" height="60px" alt="Pandas" />
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pandas.png" width="35px" height=50px" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
@@ -122,19 +122,19 @@
     </td>
      <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-database-100-most-used-icons-flaticons-flat-flat-icons-2.png" width="48" height="48" alt="DataBases" />
+        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-database-100-most-used-icons-flaticons-flat-flat-icons-2.png" width="60" height="60" alt="DataBases" />
       </a>
       <br>DataBases
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="55" height="55" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/Django.png" width="48" height="48" alt="Django" />
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/Django.png" width="60" height="60" alt="Django" />
       </a>
       <br>Django
     </td>
