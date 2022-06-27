@@ -61,7 +61,7 @@
     </td>
      <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" alt="C" />
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
@@ -73,44 +73,56 @@
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/scikit-learn.png" width="70px" height="40px" alt="React" />
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/scikit-learn.png" width="70px" height="40px" alt="Sk-learn" />
       </a>
       <br>Sk-learn
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/keras.png" width="50px" height="50px" alt="React" />
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/keras.png" width="50px" height="50px" alt="Keras" />
       </a>
       <br>Keras
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://img.icons8.com/color/48/000000/numpy.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://img.icons8.com/color/48/000000/numpy.png" width="48" height="48" alt="Numpy" />
       </a>
       <br>Numpy
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pandas.png" width="50px" height="60px" alt="TypeScript" />
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pandas.png" width="50px" height="60px" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Node JS" />
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
       </a>
       <br>Seaborn
     </td>
   <tr>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pytorch-icon.png" width="60" height="60" alt="Mongo DB" />
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pytorch-icon.png" width="60" height="60" alt="Pytorch" />
       </a>
       <br>Pytorch
     </td>
      <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-database-100-most-used-icons-flaticons-flat-flat-icons-2.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/anacondapng.png" width="60" height="60" alt="Anaconda" />
+      </a>
+      <br>Anaconda
+    </td>
+     <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/excel.png" width="60" height="60" alt="Excel" />
+      </a>
+      <br>Excel
+    </td>
+     <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-database-100-most-used-icons-flaticons-flat-flat-icons-2.png" width="48" height="48" alt="DataBases" />
       </a>
       <br>DataBases
     </td>
@@ -121,15 +133,21 @@
       <br>Git
     </td>
     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/Django.png" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96"> <a href="#"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48" height="48" alt="Bootstrap" />     </a>
+    <td align="center" width="96"> <a href="#"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48" height="48" alt="HTML " />     </a>
     <br>HTML 
     </td>
-    <td align="center" width="96"> <a href="#"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" alt="Bootstrap" />     </a>
+    <td align="center" width="96"> <a href="#"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" alt="CSS" />     </a>
     <br>CSS
     </td>
 </table>
