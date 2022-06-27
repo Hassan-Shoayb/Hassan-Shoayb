@@ -102,6 +102,12 @@
       <br>Seaborn
     </td>
   <tr>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pytorch-icon.png" width="60" height="60" alt="Mongo DB" />
+      </a>
+      <br>Pytorch
+    </td>
      <td align="center" width="96"> 
       <a href="#" >
         <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-database-100-most-used-icons-flaticons-flat-flat-icons-2.png" width="48" height="48" alt="Mongo DB" />
