@@ -166,26 +166,6 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/Hassan-Shoayb?tab=repositories">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Shoayb&layout=compact&theme=algolia&count_private=true"
-    />
-  </a>
-  <a href="https://github.com/Hassan-Shoayb?tab=repositories">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Hassan-Shoayb&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=algolia&count_private=true"
-    />
-  </a>
-</p>
-
-<p align="center" dir="auto">
-        <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
-</p>
-
 <!--
 **Hassan-Shoayb/Hassan-Shoayb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
