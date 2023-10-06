@@ -1,4 +1,3 @@
-# Hi there 👋 I'm [Shoayb!](https://hassan-shoayb.github.io/)     
 ![](https://raw.githubusercontent.com/Hassan-Shoayb/Hassan-Shoayb/main/Hassan-Shoayb.png)
 
 
